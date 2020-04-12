@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="surfBackground">#23213F</color>
+    <color name="backgroudLogPass">#312F51</color>
+    <color name="gray">#808080</color>
+    <color name="green_enter">#1EF0D7</color>
+    <color name="enter_text">#23213F</color>
+    <color name="button_pressed">#b3ffb3</color>
+</resources>

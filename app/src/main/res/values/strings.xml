@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Surf memes</string>
+    <string name="logo">logo</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="enter">ВОЙТИ</string>
+</resources>
